@@ -163,3 +163,12 @@ Backend will run at:
 -   Clean frontend--backend contract
 
 -   Practical graph algorithm usage (DAG detection)
+
+
+  👨‍💻 Author : 
+Aryan Sinha
+## 🔗 Links
+[![email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.sinha1818@gmail.com)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sinha-877698212/)
+
